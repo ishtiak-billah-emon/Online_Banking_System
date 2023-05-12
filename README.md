@@ -5,7 +5,7 @@
     3.Finalization
     4.Table with queries
 
-<img src="./img/db.PNG" height ="400"
+<img src="./img/db.png" height ="400"
 width="700"
 title="oracle database">
 
