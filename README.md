@@ -5,5 +5,5 @@
     3.Finalization
     4.Table with queries
 
-![picture](./img/db.png)
+![picture](./img/db.PNG)
 
